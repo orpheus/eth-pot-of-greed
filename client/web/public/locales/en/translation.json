@@ -1,0 +1,8 @@
+{
+  "app": {
+    "title": "React App",
+    "page": {
+      "home": "Home"
+    }
+  }
+}
